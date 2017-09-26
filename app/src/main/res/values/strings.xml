@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UnPocoDeIdiomas</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Registrate</string>
+    <string name="error_message_name">Pon tu nombre completo</string>
+    <string name="error_message_email">Pon un correo valido</string>
+    <string name="error_message_age">Pon tu edad</string>
+    <string name="error_message_password">Pon tu contraseña</string>
+    <string name="success_message">Registracion satifactoria</string>
+    <string name="text_not_member">¿No tienes cuenta? Crea una</string>
+    <string name="text_already_member">¿Ya eres miembro? Login</string>
+    <string name="error_email_exists">Correo ya existe</string>
+    <string name="error_password_match">Contraseñas no coinciden</string>
+    <string name="error_valid_email_password">Correo o contraseña equivocada</string>
+    <string name="text_member">¿Ya eres miembro? Login</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
